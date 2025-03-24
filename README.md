@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data engineering solution on Microsoft A
 
 This project follows a **Medallion architecture**, also known as bronze, silver, and gold layers. Data flows through these zones, undergoing increasing levels of refinement.
 
-![Architecture](assets/architecture.png)
+![Architecture](assets/AW_project_image.jpg)
 
 
 ## Technologies Used
